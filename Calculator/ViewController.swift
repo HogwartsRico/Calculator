@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by 陈宏杰 on 2017/7/6.
-//  Copyright © 2017年 陈宏杰. All rights reserved.
 //
 
 import UIKit
